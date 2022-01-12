@@ -8,7 +8,7 @@
 
 ## How to run
 - open you command line and navigate to the path of the file
-- do a pip install curses && pip install random
+- do a pip install curses & pip install random
 - then type python snake.py to run
 
 ## The game in action is like this:
